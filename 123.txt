@@ -1,0 +1,9 @@
+1. Turn on computer and log in
+2. Press Win+T to open the terminal
+3. Type the following then press Enter to open the editor:
+nano -ilm can_you_count.py
+4. Type the program code that I send you after this message exactly letter by letter
+5. Press Ctrl+O then Enter to save
+6. Press Ctrl+Shift+T to open a new tab in the terminal then click on it
+7. Type the following to run the program:
+python3 can_you_count.py
